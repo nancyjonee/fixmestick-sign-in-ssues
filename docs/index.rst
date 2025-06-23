@@ -7,6 +7,13 @@ How to Troubleshoot FixMeStick Sign In Issues?
    :maxdepth: 2
    :caption: Contents:
 
+.. image:: https://trackigpsnotworking.readthedocs.io/en/latest/_images/support1.png
+   :alt: My Project Logo
+   :width: 400px
+   :align: center
+   :target: https://getchatsupport.live/
+________
+
 FixMeStick is a widely-used USB-based antivirus tool designed to help users remove persistent malware and viruses from their computers. While it's known for being user-friendly and effective, users may occasionally encounter FixMeStick sign in issues. If you're unable to log in to your FixMeStick account or the device fails to authenticate, don’t worry—most of these problems can be resolved with a few troubleshooting steps.
 
 This guide will walk you through the common causes of FixMeStick sign in issues and how to fix them.
